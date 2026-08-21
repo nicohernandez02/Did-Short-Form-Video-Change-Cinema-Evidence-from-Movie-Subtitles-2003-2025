@@ -1,0 +1,24 @@
+# Core
+pandas
+numpy
+scipy
+requests
+
+# NLP / embeddings
+sentence-transformers
+
+# Distributed processing
+pyspark
+
+# Modelling
+scikit-learn
+statsmodels
+
+# Plotting
+matplotlib
+seaborn
+plotly
+
+# Notebook
+ipython
+jupyter

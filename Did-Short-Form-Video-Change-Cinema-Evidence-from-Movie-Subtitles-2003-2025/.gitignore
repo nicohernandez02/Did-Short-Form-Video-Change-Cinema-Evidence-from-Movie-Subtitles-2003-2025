@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data — see data/README.md
+data/
+*.zip
+*.gz
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
