@@ -10,6 +10,11 @@ sentence-transformers
 # Distributed processing
 pyspark
 
+# GCP (BigQuery storage + gs:// paths — only needed to rerun NB02/NB03
+# against the authors' own project; see README)
+google-cloud-bigquery
+gcsfs
+
 # Modelling
 scikit-learn
 statsmodels
